@@ -38,7 +38,7 @@ Further, we converted our app from activities into fragments for a smoother expe
 
 The app looked like this when the fragment was added:
 
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000650.png" width="300" height="500">
+<img src="https://github.com/rashilps/Tour-Guide-App/blob/master/Screenshot_20170821-020117.png" width="300" height="500">
 
 We used Navigation Patterns for adding the swipe effect to all the fragments which help the user to easily navigate through different fragments.
 
