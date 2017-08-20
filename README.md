@@ -1,14 +1,14 @@
 # Tour-Guide-App
-This is a code repository for mumbai Tour Guide App for Mumbai city
+This is a code repository for Tour Guide App for Mumbai city
 
-We started with creating 4 new activities apart from MainActivity which are AttractionsActivity, RestaurantsActivity, StreetFoodActivity, and ShoppingActivity, all 4 activities are divided into sections and are described in the following section:
+We started with creating 4 new activities apart from MainActivity which are AttractionsActivity, RestaurantsActivity, StreetFoodActivity, and ShoppingActivity, all 4 activities represents 4 sections which are described in the following section:
 
-* Attractions: shows the different attractions in Mumbai city.
-* Restaurants: shows the top restaurants in Mumbai city.
-* StreetFood: shows the best street food available in Mumbai.
-* Shopping: shows the best places to visit for shopping in Mumbai city. 
+* Attractions: Shows the different attractions in Mumbai city.
+* Restaurants: Shows the top restaurants in Mumbai city.
+* StreetFood: Shows the best street food available in Mumbai.
+* Shopping: Shows the best places to visit for shopping in Mumbai city. 
 
-Following is the screenshot of how the MainActivity looks like:
+Following is the screenshot of how MainActivity looks like:
 
 <img src="https://github.com/rashilps/Tour-Guide-App/blob/master/Screenshot_20170821-015829.png" width="300" height="500">
 
